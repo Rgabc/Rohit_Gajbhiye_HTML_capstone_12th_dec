@@ -231,9 +231,10 @@ iframe {
 
 }
 .dlt{
-    height:1.5rem;
-    width:3rem;
-    transform:translate(15rem,-9.8rem);
+    height:2rem;
+    width:3.5rem;
+    background-color: rgb(245, 137, 60);
+    transform:translate(-1rem,1rem);
 
 }
 .quant{
